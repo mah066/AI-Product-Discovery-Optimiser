@@ -1,1 +1,11 @@
 prompt,tool,appears,position,query_match,recommendation_score,notes
+Best frying pan under £50 UK,ChatGPT,1,1,1,3,Fits the query on price and type but lacks hob compatibility material oven safety durability and reviews
+Best non-stick frying pan for beginners,ChatGPT,1,1,1,3,Matches non-stick beginner use but lacks weight handle comfort durability ease of cleaning and heat distribution
+What frying pan should I buy for everyday cooking,ChatGPT,1,1,1,4,Directly matches everyday cooking but lacks hob compatibility material care instructions durability and heat distribution
+Affordable non-stick pan for induction hob,ChatGPT,1,1,0,1,Affordable non-stick pan but induction compatibility and base material are missing
+Best cookware for a student kitchen UK,ChatGPT,1,1,0,2,Single frying pan does not address broader student cookware needs like value bundle and versatility
+Best frying pan under £50 UK,Perplexity,1,1,1,3,Matches price size and everyday use but lacks hob compatibility material oven safety dishwasher safety warranty and reviews
+Best non-stick frying pan for beginners,Perplexity,1,1,1,3,Reasonable beginner match but lacks weight handle comfort durability hob compatibility oven safety and dishwasher safety
+What frying pan should I buy for everyday cooking,Perplexity,1,1,1,4,Strong everyday cooking match but lacks hob compatibility material care instructions oven safety and dishwasher safety
+Affordable non-stick pan for induction hob,Perplexity,1,1,0,1,Cannot confidently match induction query because induction compatibility and base material are missing
+Best cookware for a student kitchen UK,Perplexity,1,1,0,2,Single pan is not enough for broader student cookware needs and lacks student-focused value set info and hob compatibility
