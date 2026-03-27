@@ -30,5 +30,20 @@ Consumers are increasingly using AI tools such as ChatGPT and Perplexity to ask 
 - Query match rate
 - Recommendation quality score
 
-## Status
-Project setup complete. Testing in progress.
+## Results
+
+The optimised product page improved recommendation performance in controlled LLM evaluations.
+
+- Query match rate increased from 60% to 80% (+20 percentage points).
+- Average recommendation score increased from 2.6 to 4.0 (+1.4 points).
+- Relative recommendation-score improvement: 53.8%.
+- Visibility rate remained 100% in both phases because the product was always included in the evaluation context, so visibility was not the main performance signal in this controlled experiment.
+
+## Key Insight
+
+The biggest gains came from adding conversational copy, beginner-focused wording, FAQ content, comparison language, and clearer product attributes. The only weak area that remained was induction-related queries, because the page still did not explicitly confirm induction compatibility.
+
+
+## Claim
+
+Improved LLM query-match rate from 60% to 80% and average recommendation score from 2.6 to 4.0 by optimising product content for conversational AI discovery.

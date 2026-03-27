@@ -1,0 +1,3 @@
+phase,tests,visibility_rate,avg_position,avg_query_match_percent,avg_recommendation_score,visibility_change,query_match_change,quality_change
+baseline,10,100.0,1.0,60.0,2.6,,,
+optimised,10,100.0,1.0,80.0,4.0,0.0,20.0,1.4
